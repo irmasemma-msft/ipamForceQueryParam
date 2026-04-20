@@ -564,9 +564,9 @@ model EvalRun is OpenAI.EvalRun {
   */
   properties?: Record<string>;
 
-  /** The level at which evaluation is performed. Defaults to 'trace' if not specified. */
+  /** The level at which evaluation is performed. Defaults to 'turn' if not specified. */
   @removed(Versions.v1)
-  evaluation_level?: EvaluationLevel = EvaluationLevel.trace;
+  evaluation_level?: EvaluationLevel = EvaluationLevel.turn;
 }
 
 #suppress "@azure-tools/typespec-autorest/union-unsupported" "Imported from OpenAI spec."
@@ -587,9 +587,9 @@ model CreateEvalRunRequest is OpenAI.CreateEvalRunRequest {
   */
   properties?: Record<string>;
 
-  /** The level at which evaluation is performed. Defaults to 'trace' if not specified. */
+  /** The level at which evaluation is performed. Defaults to 'turn' if not specified. */
   @removed(Versions.v1)
-  evaluation_level?: EvaluationLevel = EvaluationLevel.trace;
+  evaluation_level?: EvaluationLevel = EvaluationLevel.turn;
 }
 
 model UpdateEvalParametersBody is OpenAI.UpdateEvalParametersBody {

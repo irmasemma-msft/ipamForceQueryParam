@@ -1,0 +1,12 @@
+{
+  "title": "Evaluators_DeleteEvaluatorVersion_MaximumSet",
+  "operationId": "Evaluators_DeleteEvaluatorVersion",
+  "parameters": {
+    "api-version": "2025-10-15-preview",
+    "name": "uvldleje",
+    "version": "vmwuflevllywuonytwuqpmhb"
+  },
+  "responses": {
+    "204": {}
+  }
+}

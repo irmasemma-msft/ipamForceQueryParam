@@ -1,0 +1,40 @@
+{
+  "title": "Evaluators_UpdateEvaluatorVersion_MaximumSet",
+  "operationId": "Evaluators_UpdateEvaluatorVersion",
+  "parameters": {
+    "api-version": "2025-10-15-preview",
+    "name": "rnbopcanjuiohruqnlyfmmvwsbkdl",
+    "version": "ktaotpdayzsquthap"
+  },
+  "responses": {
+    "200": {
+      "body": {
+        "display_name": "hwkugwzamcaqrpnhcyjagnpiui",
+        "metadata": {
+          "key9868": "gmyzimw"
+        },
+        "evaluator_type": "builtin",
+        "categories": [
+          "quality"
+        ],
+        "definition": {
+          "type": "EvaluatorDefinition",
+          "metrics": {
+            "key1133": {
+              "type": "ordinal",
+              "desirable_direction": "increase",
+              "min_value": 28,
+              "max_value": 15
+            }
+          }
+        },
+        "created_by": "ypiwjbcnj",
+        "created_at": "yqpxtha",
+        "modified_at": "dsdgrlejiwcegstcxtxytom",
+        "id": "xophewpcqdhabujeohdoi",
+        "name": "mdiuk",
+        "version": "jghjtjdxyevryzbpjrlo"
+      }
+    }
+  }
+}

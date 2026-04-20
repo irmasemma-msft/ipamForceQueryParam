@@ -1,0 +1,33 @@
+{
+  "title": "Evaluators_ListEvaluatorVersions_MinimumSet",
+  "operationId": "Evaluators_ListEvaluatorVersions",
+  "parameters": {
+    "name": "pykagrshalpeajggbhddpya"
+  },
+  "responses": {
+    "200": {
+      "body": {
+        "object": "list",
+        "data": [
+          {
+            "evaluator_type": "builtin",
+            "categories": [
+              "quality"
+            ],
+            "definition": {
+              "type": "EvaluatorDefinition"
+            },
+            "created_by": "ypiwjbcnj",
+            "created_at": "yqpxtha",
+            "modified_at": "dsdgrlejiwcegstcxtxytom",
+            "name": "mdiuk",
+            "version": "jghjtjdxyevryzbpjrlo"
+          }
+        ],
+        "first_id": "lgeuqkrnosqoqatkwylypxiy",
+        "last_id": "gcdxsonatafmzeafnhzyahhsqmqxq",
+        "has_more": true
+      }
+    }
+  }
+}

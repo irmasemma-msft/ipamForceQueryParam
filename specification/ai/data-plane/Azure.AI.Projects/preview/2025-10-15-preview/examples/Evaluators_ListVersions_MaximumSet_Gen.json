@@ -1,0 +1,48 @@
+{
+  "title": "Evaluators_ListVersions_MaximumSet",
+  "operationId": "Evaluators_ListVersions",
+  "parameters": {
+    "limit": 7,
+    "after": "eopzbulokc",
+    "before": "tzaxbnvndgdevqzukyp"
+  },
+  "responses": {
+    "200": {
+      "body": {
+        "object": "list",
+        "data": [
+          {
+            "display_name": "hwkugwzamcaqrpnhcyjagnpiui",
+            "metadata": {
+              "key9868": "gmyzimw"
+            },
+            "evaluator_type": "builtin",
+            "categories": [
+              "quality"
+            ],
+            "definition": {
+              "type": "EvaluatorDefinition",
+              "metrics": {
+                "key1133": {
+                  "type": "ordinal",
+                  "desirable_direction": "increase",
+                  "min_value": 28,
+                  "max_value": 15
+                }
+              }
+            },
+            "created_by": "ypiwjbcnj",
+            "created_at": "yqpxtha",
+            "modified_at": "dsdgrlejiwcegstcxtxytom",
+            "id": "xophewpcqdhabujeohdoi",
+            "name": "mdiuk",
+            "version": "jghjtjdxyevryzbpjrlo"
+          }
+        ],
+        "first_id": "citgbqbwwflsbt",
+        "last_id": "mlrvrbzjclmjcztayywgbizrzayj",
+        "has_more": true
+      }
+    }
+  }
+}

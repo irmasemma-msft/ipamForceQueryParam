@@ -1,0 +1,26 @@
+{
+  "title": "Evaluators_CreateEvaluatorVersion_MinimumSet",
+  "operationId": "Evaluators_CreateEvaluatorVersion",
+  "parameters": {
+    "api-version": "2025-10-15-preview",
+    "name": "gbiiuqoofehyocrpttftvs"
+  },
+  "responses": {
+    "201": {
+      "body": {
+        "evaluator_type": "builtin",
+        "categories": [
+          "quality"
+        ],
+        "definition": {
+          "type": "EvaluatorDefinition"
+        },
+        "created_by": "ypiwjbcnj",
+        "created_at": "yqpxtha",
+        "modified_at": "dsdgrlejiwcegstcxtxytom",
+        "name": "mdiuk",
+        "version": "jghjtjdxyevryzbpjrlo"
+      }
+    }
+  }
+}
